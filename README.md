@@ -9,7 +9,6 @@ Desktop software for electrode-based cell stimulation and experimental signal re
   <img src="https://img.shields.io/badge/.NET_Framework-4.7.2-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/WinForms-GUI-0078D6?style=flat&logo=windows&logoColor=white" alt="WinForms" />
   <img src="https://img.shields.io/badge/L--Card-E20--10-red?style=flat" alt="E20-10" />
-  <img src="https://img.shields.io/badge/Status-in_development-yellow?style=flat" alt="Status" />
 </p>
 
 ---
